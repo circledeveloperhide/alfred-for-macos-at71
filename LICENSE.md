@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with new Alfred for macOS Module | memory-optimization + network-speed, the #1 module. Includes memory-optimization and network-speed for a smoother macOS
 
 
 
